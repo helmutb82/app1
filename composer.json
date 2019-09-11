@@ -9,6 +9,11 @@
             "email": "helmutb@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Helmutb\\App1\\": "src/"
+        }
+    },    
     "minimum-stability": "dev",
         "require": {
         "php": "^7.1.3",

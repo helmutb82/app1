@@ -1,0 +1,14 @@
+{
+    "name": "helmutb/app1",
+    "description": "API App1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Helmut Burchardt",
+            "email": "helmutb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

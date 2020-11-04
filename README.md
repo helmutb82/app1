@@ -1,2 +1,2 @@
 # app1
-This is a great Test
+This is a Test feature
